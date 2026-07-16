@@ -25,11 +25,13 @@ Für Disziplinkapitel (Teil III) gilt ein verkürztes Raster: Positionalität ·
 
 ### Lizenz
 
-Alle Beiträge erscheinen unter [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) — freie Nutzung und Weitergabe mit Namensnennung, nicht für kommerzielle Zwecke.
+Alle Beiträge erscheinen unter einer CC-Lizenz. 
+
+Vorschlag: [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) — freie Nutzung und Weitergabe mit Namensnennung, nicht für kommerzielle Zwecke.
 
 ### Sprache
 
-Deutsch ist die Hauptsprache des Handbuchs. Einzelne Beiträge auf Englisch sind in Absprache möglich.
+Deutsch ist die Hauptsprache des Handbuchs. Einzelne Beiträge auf Englisch sind in Absprache/Ausnahmefällen möglich.
 
 ---
 
