@@ -38,7 +38,7 @@ title: Handbücher im Vergleich
   <span class="tag">Dekolonisierung</span>
   <span class="tag">Pedagogy</span>
 </div>
-<p class="book-note">Aktuelle Debatten: Kritik, Dekolonisierung, Pädagogik, Disziplinen, Zukunft der DH. Stark kritisch-reflexiv. Zentrale Referenz für Teil II.7 (Kritik und Disruption). Alle 44 Kapitel im Ordner vorhanden.</p>
+<p class="book-note">Aktuelle Debatten: Kritik, Dekolonisierung, Pädagogik, Disziplinen, Zukunft der DH. Stark kritisch-reflexiv. Zentrale Referenz für Teil II.7 (Kritik und Disruption). 44 Kapitel.</p>
 </div>
 
 <div class="book-card">
@@ -71,7 +71,7 @@ title: Handbücher im Vergleich
   <span class="tag">Konzeptuell</span>
   <span class="tag">Digital History</span>
 </div>
-<p class="book-note">Konzeptuelle und methodische Tiefe für Digital History, kritische Reflexion. Sehr nah an Teil II — insbesondere Topic Modeling, Edition, Visualisierung. Hodel „Die Maschine und die Geschichtswissenschaft" ist direkter Anknüpfungspunkt für Teil I.</p>
+<p class="book-note">Konzeptuelle und methodische Tiefe für Digital History, kritische Reflexion. Sehr nah an Teil II — insbesondere Topic Modeling, Edition, Visualisierung. Abgrenzung: Versuch einer Systematisierung.</p>
 </div>
 
 <div class="book-card">
@@ -121,7 +121,7 @@ title: Handbücher im Vergleich
   <span class="tag">Interviewformat</span>
   <span class="tag">Theoretisch</span>
 </div>
-<p class="book-note">Gespräche mit führenden DH-Theoretiker:innen (Drucker, Golumbia, Hayles u. a.). Das Interviewformat ist formales Vorbild für die Positionalitätserklärungen. Inhaltlich relevant für Definitionsfragen und Kritik.</p>
+<p class="book-note">Gespräche mit führenden DH-Theoretiker:innen (Drucker, Golumbia, Hayles u. a.). Das Interviewformat könnte ein formales Vorbild für die Positionalitätserklärungen werden. Inhaltlich relevant für Definitionsfragen und Kritik.</p>
 </div>
 
 <div class="book-card">
