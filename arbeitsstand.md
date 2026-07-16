@@ -3,9 +3,9 @@ layout: default
 title: Arbeitsstand
 ---
 
-Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Konzeptdokumente werden im projektinternen Ordner gepflegt und hier zusammengefasst.
+Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Seite bildet den aktuellen Stand ab und wird laufend erweitert.
 
-*Stand: Juni 2026*
+*Stand: Juli 2026*
 
 ---
 
@@ -38,7 +38,7 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Konzeptdokumente we
     <tr>
       <td>Cross-Mapping Companion 2004</td>
       <td><span class="badge badge-active">Entwurf</span></td>
-      <td>Abgleich der 37 Companion-Kapitel mit Lücken seit 2004: genAI, HTR, Knowledge Graphs, FAIR, Crowdsourcing, Reproducibility</td>
+      <td>Abgleich der 37 Companion-Kapitel mit Lücken seit 2004: genAI, HTR, Knowledge Graphs, FAIR, CARE, Crowdsourcing, Reproducibility</td>
     </tr>
   </tbody>
 </table>
@@ -58,43 +58,43 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Konzeptdokumente we
   </thead>
   <tbody>
     <tr>
-      <td>II.1 Skalierung / Scaled Reading</td>
+      <td>II.1 Skalieren / Scaled Reading</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-planned">geplant</span></td>
       <td><span class="badge badge-open">offen</span></td>
     </tr>
     <tr>
-      <td>II.2 Visualisierung</td>
+      <td>II.2 Visualisieren</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-planned">geplant</span></td>
       <td><span class="badge badge-open">offen</span></td>
     </tr>
     <tr>
-      <td>II.3 Publikation</td>
+      <td>II.3 Publizieren</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-open">ausstehend</span></td>
       <td><span class="badge badge-open">offen</span></td>
     </tr>
     <tr>
-      <td>II.4 Crowdsourcing</td>
+      <td>II.4 Crowd Sourcen (?)</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-open">ausstehend</span></td>
       <td><span class="badge badge-open">offen</span></td>
     </tr>
     <tr>
-      <td>II.5 Aufbewahrung</td>
+      <td>II.5 Aufbewahren</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-planned">geplant</span></td>
       <td><span class="badge badge-open">offen</span></td>
     </tr>
     <tr>
-      <td>II.6 Lehre</td>
+      <td>II.6 Lernen und Lehren</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-open">ausstehend</span></td>
       <td><span class="badge badge-open">offen</span></td>
     </tr>
     <tr>
-      <td>II.7 Kritik und Disruption</td>
+      <td>II.7 Kritisieren</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-open">ausstehend</span></td>
       <td><span class="badge badge-open">offen</span></td>
@@ -109,8 +109,8 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Konzeptdokumente we
 ### Struktur
 
 - Reihenfolge/Gruppierung der 17 Disziplinkapitel (Teil III): nach zeitlichem Gegenstand (Antike → Moderne) oder nach Quellentyp (Text – Bild – Objekt – Raum)?
-- Aufteilung von II.1 „Skalierung": Ein Kapitel (14 Unterkapitel) oder zwei eigenständige Kapitel (Textanalyse/NLP vs. Netzwerkanalyse/KGs/Multimodal/genAI)?
-- Einheitliches Fragenraster für Positionalitätserklärungen (3–5 Fragen, inkl. KI-Frage)
+- Aufteilung von II.1 „Skalieren": Ein Kapitel (mit 14 Unterkapitel) oder alternative Form, um Ansätze zusammenzubringen?
+- Einheitliches Fragenraster für Positionalitätserklärungen (3–5 Fragen, inkl. Umgang mit generativen und anderen Formen der Künstlichen Intelligenz)
 
 ### Autor:innen und Disziplinen
 
