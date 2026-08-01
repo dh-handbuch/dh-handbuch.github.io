@@ -85,7 +85,7 @@ Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung
 <div class="part-label">Teil III</div>
 <div class="part-title">Disziplinäre Perspektiven</div>
 
-17 kompakte Kapitel (je ca. 20 Seiten) als „Linsen": Status quo in der Disziplin · zentrale Debatten · 2–3 exemplarische Projekte/Infrastrukturen (DACH) · Verweise auf Teil II · Ausblick. Jedes Kapitel beginnt mit einer Positionalitätserklärung. Eine standardisierte Box „KI in der Disziplin X" (ca. 1 Seite) ist in jedem Kapitel vorgesehen.
+20 kompakte Kapitel (je ca. 20 Seiten) als „Linsen": Status quo in der Disziplin · zentrale Debatten · 2–3 exemplarische Projekte/Infrastrukturen (DACH) · Verweise auf Teil II · Ausblick. Jedes Kapitel beginnt mit einer Positionalitätserklärung. Eine standardisierte Box „KI in der Disziplin X" (ca. 1 Seite) ist in jedem Kapitel vorgesehen.
 
 <ul class="chapter-list">
   <li><span class="ch-num">1</span><span class="ch-title">Geschichtswissenschaft</span><span class="ch-scope">~20 S.</span></li>
@@ -97,16 +97,17 @@ Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung
   <li><span class="ch-num">7</span><span class="ch-title">Mittelalterstudien</span><span class="ch-scope">~20 S.</span></li>
   <li><span class="ch-num">8</span><span class="ch-title">Frühe-Neuzeit-Studien</span><span class="ch-scope">~20 S.</span></li>
   <li><span class="ch-num">9</span><span class="ch-title">Global Studies / Außereuropäische Geistes- und Kulturwissenschaften</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">10</span><span class="ch-title">Anthropologie / Ethnologie</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">11</span><span class="ch-title">Editionswissenschaft</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">12</span><span class="ch-title">Musikwissenschaft</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">13</span><span class="ch-title">Theaterwissenschaft</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">14</span><span class="ch-title">Religionswissenschaft</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">15</span><span class="ch-title">Theologie</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">16</span><span class="ch-title">Rechtsgeschichte</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">17</span><span class="ch-title">Politikwissenschaft / Sozialwissenschaften</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">17</span><span class="ch-title">Informationswissenschaft</span><span class="ch-scope">~20 S.</span></li>
-  <li><span class="ch-num">17</span><span class="ch-title">Computerwissenschaft</span><span class="ch-scope">~20 S.</span></li>
+    <li><span class="ch-num">10</span><span class="ch-title">Philosophie</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">11</span><span class="ch-title">Anthropologie / Ethnologie</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">12</span><span class="ch-title">Editionswissenschaft</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">13</span><span class="ch-title">Musikwissenschaft</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">14</span><span class="ch-title">Theaterwissenschaft</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">15</span><span class="ch-title">Religionswissenschaft</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">16</span><span class="ch-title">Theologie</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">17</span><span class="ch-title">Rechtsgeschichte</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">18</span><span class="ch-title">Politikwissenschaft / Sozialwissenschaften</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">19</span><span class="ch-title">Informationswissenschaft</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">20</span><span class="ch-title">Computerwissenschaft</span><span class="ch-scope">~20 S.</span></li>
 </ul>
 </div>
 
