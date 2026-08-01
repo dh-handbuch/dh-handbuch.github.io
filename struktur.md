@@ -38,7 +38,7 @@ Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung
 <ul class="chapter-list">
   <li>
     <span class="ch-num">II.1</span>
-    <span class="ch-title"><strong>Skalieren</strong> <span class="badge badge-active">Kernteil</span><br>
+    <span class="ch-title"><strong>Skalieren</strong> <br>
     14 Unterkapitel: Skalierung als Konzept · Python-Grundlagen · Textvorverarbeitung und historische Sprachstufen · Explorative Datenanalyse · Topic Modeling · Named Entity Recognition · Netzwerkanalyse · Maschinelles Lernen · Stilometrie und Autorschaftsanalyse · Digitale Edition als skaliertes Verfahren · Knowledge Graphs und SPARQL · Multimodale Analyse · Generative KI als Skalierungswerkzeug · Kritische Reflexion</span>
     <span class="ch-scope">60–100 S.</span>
   </li>
