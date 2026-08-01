@@ -23,7 +23,7 @@ Längsschnitt und Begriffsdiskussion. Je ca. 30–40 Seiten.
   <li>
     <span class="ch-num">2</span>
     <span class="ch-title">Definieren: <strong>Definitionsfragen: Digital Humanities, Computational Humanities, Humanities Computing</strong><br>
-    Begriffsgeschichte und aktuelle Debatte. Verhältnis des deutschsprachigen Diskurses zu anglophonen Entwicklungen. Einordnung von „Humanities Data Science" als Begriff/Teilfeld.</span>
+    Begriffsgeschichte und aktuelle Debatte. Verhältnis des deutschsprachigen Diskurses zu anglophonen Entwicklungen. Einordnung der Begrifflichkeiten „Digital Humanities", „Computational Humanities" und „Humanities Data Science" als Begriff/Teilfeld.</span>
     <span class="ch-scope">~35 S.</span>
   </li>
 </ul>
@@ -51,7 +51,7 @@ Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung
   <li>
     <span class="ch-num">II.3</span>
     <span class="ch-title"><strong>Publizieren</strong><br>
-    Open Access, digitale Monographien, reproduzierbares Publizieren (Jupyter Books/MyST), Versionierung mit Git/GitHub, FAIR-Prinzipien, Public Humanities</span>
+    Open Access, digitale Monographien, reproduzierbares Publizieren (Jupyter Notebooks), Versionierung mit Git/GitHub, FAIR-Prinzipien, Public Humanities</span>
     <span class="ch-scope">20–40 S.</span>
   </li>
   <li>
@@ -110,9 +110,9 @@ Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung
 
 ## KI als Querschnittsthema
 
-Generative KI wird an vier Stellen mit unterschiedlicher Funktion eingebettet — kein isoliertes Kapitel, kein Silo:
+Generative KI kann an vier Stellen mit unterschiedlicher Funktion eingebettet werden:
 
-- **Definitionskapitel (I.2)** — begriffliche Einordnung: ist generative KI eine neue Methode oder eine Zäsur?
+- **Definitionskapitel (I.2)** — begriffliche Einordnung: Generative KI als eigene (und somit neue) Methode oder gar als Zäsur verstanden?
 - **Skalierung (II.1.13)** — praktisch: LLMs für Annotation, Klassifikation, Prompting, Few-Shot/Fine-Tuning
 - **Kritik und Disruption (II.7.9)** — reflexiv: Bias, Urheberrecht, ökologischer Fußabdruck, Autorschaftsfrage
 - **Lehre (II.6.6 „Promptotyping")** — didaktisch: genAI als Lehr- und Lernwerkzeug
@@ -121,4 +121,4 @@ Zusätzlich enthält jedes Disziplinkapitel (Teil III) eine Box „KI in der Dis
 
 ## Interaktivität: Jupyter-Notebooks
 
-Für jedes Teil-II-Kapitel wird mindestens ein begleitendes Jupyter-Notebook bereitgestellt (Python, ausführbar via JupyterHub oder Google Colab ohne lokale Installation). Die Notebooks arbeiten mit offenen Datensätzen aus dem deutschsprachigen Raum (HLS, SSRQ, e-periodica, e-codices, Europeana/DDB) und enden mit Übungsaufgaben. Für Disziplinkapitel (Teil III) sind Notebooks optional, dort sinnvoll, wo ein disziplinspezifischer Datensatz die Methode aus Teil II illustriert.
+Für jedes Teil-II-Kapitel wird mindestens ein begleitendes Jupyter-Notebook bereitgestellt (Python, ausführbar via JupyterHub oder Google Colab ohne lokale Installation). Die Notebooks arbeiten mit offenen Datensätzen aus dem deutschsprachigen Raum und enden (idealiter?) mit Übungsaufgaben. Für Disziplinkapitel (Teil III) sind Notebooks optional, dort sinnvoll, wo ein disziplinspezifischer Datensatz die Methode aus Teil II illustriert.
