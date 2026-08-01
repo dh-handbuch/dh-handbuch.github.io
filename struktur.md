@@ -23,7 +23,7 @@ Längsschnitt und Begriffsdiskussion. Je ca. 30–40 Seiten.
   <li>
     <span class="ch-num">2</span>
     <span class="ch-title">Definieren: <strong>Definitionsfragen: Digital Humanities, Computational Humanities, Humanities Computing</strong><br>
-    Begriffsgeschichte und aktuelle Debatte. Verhältnis des deutschsprachigen Diskurses zu anglophonen Entwicklungen. Einordnung der Begrifflichkeiten „Digital Humanities", „Computational Humanities" und „Humanities Data Science" als Begriff/Teilfeld.</span>
+    Begriffsgeschichte und aktuelle Debatte. Verhältnis des deutschsprachigen Diskurses zu anglophonen/weltweiten Entwicklungen. Einordnung der Begrifflichkeiten „Digital Humanities", „Computational Humanities" und „Humanities Data Science".</span>
     <span class="ch-scope">~35 S.</span>
   </li>
 </ul>
