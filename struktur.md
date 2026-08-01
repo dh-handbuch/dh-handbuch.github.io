@@ -105,6 +105,8 @@ Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung
   <li><span class="ch-num">15</span><span class="ch-title">Theologie</span><span class="ch-scope">~20 S.</span></li>
   <li><span class="ch-num">16</span><span class="ch-title">Rechtsgeschichte</span><span class="ch-scope">~20 S.</span></li>
   <li><span class="ch-num">17</span><span class="ch-title">Politikwissenschaft / Sozialwissenschaften</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">17</span><span class="ch-title">Informationswissenschaft</span><span class="ch-scope">~20 S.</span></li>
+  <li><span class="ch-num">17</span><span class="ch-title">Computerwissenschaft</span><span class="ch-scope">~20 S.</span></li>
 </ul>
 </div>
 
