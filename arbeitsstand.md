@@ -108,7 +108,7 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Seite bildet den ak
 
 ### Struktur
 
-- Reihenfolge/Gruppierung der 17 Disziplinkapitel (Teil III): nach zeitlichem Gegenstand (Antike → Moderne) oder nach Quellentyp (Text – Bild – Objekt – Raum)?
+- Reihenfolge/Gruppierung der 20 Disziplinkapitel (Teil III): nach zeitlichem Gegenstand (Antike → Moderne) oder nach Quellentyp (Text – Bild – Objekt – Raum)?
 - Aufteilung von II.1 „Skalieren": Ein Kapitel (mit 14 möglichen Themen) oder alternative Form, um Ansätze zusammenzubringen?
 - Einheitliches Fragenraster für Positionalitätserklärungen (3–5 Fragen, inkl. Umgang mit generativen und anderen Formen der Künstlichen Intelligenz)
 

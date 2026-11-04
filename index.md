@@ -13,7 +13,7 @@ title: ""
 
 <p class="lead">Das <strong>Handbuch Digital Humanities im deutschsprachigen Raum</strong> ist ein transdisziplinäres Referenzwerk, das systematische Methodenkapitel, disziplinäre Perspektiven und begleitende Jupyter-Notebooks verbindet.</p>
 
-<p class="hero-desc">Das Handbuch richtet sich an Forschende, Lehrende und Studierende der Geistes- und Kulturwissenschaften im deutschsprachigen Raum (D/A/CH/L). Es positioniert sich als erstes Werk, das methodische Tiefe, 17 Disziplinperspektiven, durchgehende Positionalitätserklärungen und interaktive Notebooks in einem deutschsprachigen Rahmen vereint.</p>
+<p class="hero-desc">Das Handbuch richtet sich an Forschende, Lehrende und Studierende der Geistes- und Kulturwissenschaften im deutschsprachigen Raum (D/A/CH/L). Es positioniert sich als erstes Werk, das methodische Tiefe, 20 Disziplinperspektiven, durchgehende Positionalitätserklärungen und interaktive Notebooks in einem deutschsprachigen Rahmen vereint.</p>
 
 <div class="key-facts">
   <div class="fact">
@@ -21,7 +21,7 @@ title: ""
     <div class="fact-label">Buchteile</div>
   </div>
   <div class="fact">
-    <div class="fact-num">17</div>
+    <div class="fact-num">20</div>
     <div class="fact-label">Disziplinkapitel</div>
   </div>
   <div class="fact">
@@ -37,7 +37,7 @@ Das Handbuch ist in drei Teile gegliedert:
 
 - **Teil I – Rahmen:** Geschichte der DH im deutschsprachigen Raum und Zielgruppen der Digital Humanities
 - **Teil II – Praktiken:** Sieben Kapitel zu zentralen Praktiken (Skalieren, Visualisieren, Publizieren, Crowd Sourcen, Sammeln/Bereitstellen/Aufbewahren, Lernen und Lehren, Kritisieren) – jeweils mit Jupyter-Notebooks
-- **Teil III – Disziplinäre Perspektiven:** 17 kompakte Kapitel als „Linsen" auf die Methoden aus Teil II
+- **Teil III – Disziplinäre Perspektiven:** 20 kompakte Kapitel als „Linsen" auf die Methoden aus Teil II
 
 ### Positionalität als verbindendes Element
 

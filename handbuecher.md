@@ -54,7 +54,7 @@ title: Handbücher im Vergleich
   <span class="tag">Lehrbuch</span>
   <span class="tag">Geschichtswissenschaft</span>
 </div>
-<p class="book-note">Einführendes Lehrbuch für die Geschichtswissenschaft. Sieben Abschnitte: Beginnen → Quellen → Analysieren → Publizieren → Rezipieren → Vermitteln → Sichern. Zentrales deutschsprachiges Vorbild, aber disziplinär beschränkt — unser Handbuch verbreitert die Basis auf 17 Disziplinen.</p>
+<p class="book-note">Einführendes Lehrbuch für die Geschichtswissenschaft. Sieben Abschnitte: Beginnen → Quellen → Analysieren → Publizieren → Rezipieren → Vermitteln → Sichern. Zentrales deutschsprachiges Vorbild, aber disziplinär beschränkt — unser Handbuch verbreitert die Basis auf 20 Disziplinen.</p>
 </div>
 
 <div class="book-card">
@@ -145,12 +145,12 @@ title: Handbücher im Vergleich
 
 ## Positionierung des neuen Handbuchs
 
-Kein vorhandenes Werk verbindet (a) systematische Methodenkapitel mit Jupyter-Notebooks, (b) 17 Disziplinperspektiven, (c) durchgehende Positionalitätserklärungen inklusive KI-Reflexion und (d) deutschsprachigen Fokus auf den DACH-Raum. Das ist die Nische des geplanten Handbuchs.
+Kein vorhandenes Werk verbindet (a) systematische Methodenkapitel mit Jupyter-Notebooks, (b) 20 Disziplinperspektiven, (c) durchgehende Positionalitätserklärungen inklusive KI-Reflexion und (d) deutschsprachigen Fokus auf den DACH-Raum. Das ist die Nische des geplanten Handbuchs.
 
 | Merkmal | Antenhofer et al. | Wuttke et al. | Bloomsbury | **Unser Handbuch** |
 |---|---|---|---|---|
 | Deutschsprachig | ✓ | ✓ | — | **✓** |
-| Transdisziplinär (17 Disziplinen) | — | — | ✓ | **✓** |
+| Transdisziplinär (20 Disziplinen) | — | — | ✓ | **✓** |
 | Jupyter-Notebooks | — | — | — | **✓** |
 | Positionalitätserklärungen | — | ✓ | — | **✓** |
 | KI als Querschnittsthema | — | teilw. | teilw. | **✓** |
