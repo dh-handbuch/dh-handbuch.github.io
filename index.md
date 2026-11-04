@@ -3,6 +3,11 @@ layout: default
 title: ""
 ---
 
+<div class="news">
+<div class="news-label">Neu</div>
+<p><strong>Workshop an der DHd 2027 in Marburg:</strong> An der Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2027, Philipps-Universität Marburg) findet ein Workshop statt, an dem die Struktur des Handbuchs gemeinsam diskutiert wird. Interessierte sind herzlich eingeladen – <a href="{{ '/beitragen' | relative_url }}">Kontakt</a>.</p>
+</div>
+
 <div class="hero">
 <h2>Projektinformation</h2>
 
@@ -30,8 +35,8 @@ title: ""
 
 Das Handbuch ist in drei Teile gegliedert:
 
-- **Teil I – Rahmen:** Geschichte der DH im deutschsprachigen Raum und Definitionsfragen
-- **Teil II – Methodische Zugriffe & Begriffe:** Sieben vertiefte Methodenkapitel (Skalierung, Visualisierung, Publikation, Crowdsourcing, Aufbewahrung, Lehre, Kritik) – jeweils mit Jupyter-Notebooks
+- **Teil I – Rahmen:** Geschichte der DH im deutschsprachigen Raum und Zielgruppen der Digital Humanities
+- **Teil II – Praktiken:** Sieben Kapitel zu zentralen Praktiken (Skalieren, Visualisieren, Publizieren, Crowd Sourcen, Sammeln/Bereitstellen/Aufbewahren, Lernen und Lehren, Kritisieren) – jeweils mit Jupyter-Notebooks
 - **Teil III – Disziplinäre Perspektiven:** 17 kompakte Kapitel als „Linsen" auf die Methoden aus Teil II
 
 ### Positionalität als verbindendes Element
@@ -40,7 +45,7 @@ Jedes Kapitel beginnt mit einer kurzen Positionalitätserklärung der Autorinnen
 
 ### Jupyter-Notebooks als Praxisbausteine
 
-Zu jedem methodischen Kapitel (Teil II) gibt es mindestens ein Jupyter-Notebook in Python — ausführbar ohne lokale Installation via JupyterHub oder Google Colab. Die Notebooks arbeiten mit offenen Datensätzen aus dem deutschsprachigen Raum und sind Teil des Handbuchs, nicht nachgelagerte Materialien.
+Zu jedem Kapitel in Teil II gibt es mindestens ein Jupyter-Notebook in Python — ausführbar ohne lokale Installation via JupyterHub oder Google Colab. Die Notebooks arbeiten mit offenen Datensätzen aus dem deutschsprachigen Raum und sind Teil des Handbuchs, nicht nachgelagerte Materialien.
 
 ## Positionierung
 

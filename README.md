@@ -6,7 +6,7 @@ Projektseite und Dokumentation zum geplanten transdisziplinären DH-Handbuch. Di
 
 Das Handbuch Digital Humanities im deutschsprachigen Raum ist ein kollaboratives Referenzwerk für Forschende, Lehrende und Studierende der Geistes- und Kulturwissenschaften im DACH-Raum. Es verbindet:
 
-- **Systematische Methodenkapitel** mit begleitenden Jupyter-Notebooks (Teil II)
+- **Kapitel zu zentralen Praktiken** mit begleitenden Jupyter-Notebooks (Teil II)
 - **17 disziplinäre Perspektiven** als kompakte Anwendungskapitel (Teil III)
 - **Positionalitätserklärungen** aller Beitragenden als verbindendes Element
 - **Deutschsprachigen Fokus** mit Bezug zu internationalen Debatten

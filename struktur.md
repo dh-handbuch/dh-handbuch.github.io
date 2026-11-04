@@ -3,7 +3,7 @@ layout: default
 title: Buchstruktur
 ---
 
-Die Gesamtarchitektur folgt einem dreiteiligen Aufbau. Teil I setzt den historischen und begrifflichen Rahmen; Teil II bildet den methodischen Kern mit Jupyter-Notebooks je Unterkapitel; Teil III liefert kompakte disziplinäre Anwendungskapitel, die auf Teil II zurückverweisen.
+Die Gesamtarchitektur folgt einem dreiteiligen Aufbau. Teil I setzt den historischen und begrifflichen Rahmen; Teil II bildet den Kern mit Kapiteln zu zentralen Praktiken, begleitet von Jupyter-Notebooks; Teil III liefert kompakte disziplinäre Anwendungskapitel, die auf Teil II zurückverweisen.
 
 ---
 
@@ -22,8 +22,8 @@ Längsschnitt und Begriffsdiskussion. Je ca. 30–40 Seiten.
   </li>
   <li>
     <span class="ch-num">2</span>
-    <span class="ch-title">Definieren: <strong>Definitionsfragen: Digital Humanities, Computational Humanities, Humanities Computing</strong><br>
-    Begriffsgeschichte und aktuelle Debatte. Verhältnis des deutschsprachigen Diskurses zu anglophonen/weltweiten Entwicklungen. Einordnung der Begrifflichkeiten „Digital Humanities", „Computational Humanities" und „Humanities Data Science".</span>
+    <span class="ch-title">Adressieren: <strong>Zielgruppen in den Digital Humanities</strong><br>
+    Für wen und mit wem werden Digital Humanities betrieben? Forschende, Lehrende und Studierende der Geistes- und Kulturwissenschaften, Mitarbeitende in Gedächtnisinstitutionen (GLAM) und Infrastrukturen, Research Software Engineers sowie eine interessierte Öffentlichkeit. Unterschiedliche Bedürfnisse, Erwartungen und Zugänge im deutschsprachigen Raum.</span>
     <span class="ch-scope">~35 S.</span>
   </li>
 </ul>
@@ -31,51 +31,51 @@ Längsschnitt und Begriffsdiskussion. Je ca. 30–40 Seiten.
 
 <div class="part">
 <div class="part-label">Teil II</div>
-<div class="part-title">Methodische Zugriffe & Begriffe</div>
+<div class="part-title">Praktiken</div>
 
-Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung, (3) Stand der Praxis im deutschsprachigen Raum, (4) kritische Diskussion, (5) Jupyter-Notebook(s), (6) Bezüge zu Teil III, (7) Ausblick.
+Sieben Kapitel zu Praktiken der Digital Humanities mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung, (3) Stand der Praxis im deutschsprachigen Raum, (4) kritische Diskussion, (5) Jupyter-Notebook(s), (6) Bezüge zu Teil III, (7) Ausblick. Die Kapitel werden bewusst nicht in feste Unterkapitel gegliedert; die genannten Punkte sind mögliche Themen, deren Auswahl und Gewichtung bei den Autor:innen liegt.
 
 <ul class="chapter-list">
   <li>
     <span class="ch-num">II.1</span>
     <span class="ch-title"><strong>Skalieren</strong> <br>
-    14 Unterkapitel: Skalierung als Konzept · Python-Grundlagen · Textvorverarbeitung und historische Sprachstufen · Explorative Datenanalyse · Topic Modeling · Named Entity Recognition · Netzwerkanalyse · Maschinelles Lernen · Stilometrie und Autorschaftsanalyse · Digitale Edition als skaliertes Verfahren · Knowledge Graphs und SPARQL · Multimodale Analyse · Generative KI als Skalierungswerkzeug · Kritische Reflexion</span>
+    Mögliche Themen: Skalierung als Konzept · Python-Grundlagen · Textvorverarbeitung und historische Sprachstufen · Explorative Datenanalyse · Topic Modeling · Named Entity Recognition · Netzwerkanalyse · Maschinelles Lernen · Stilometrie und Autorschaftsanalyse · Digitale Edition als skaliertes Verfahren · Knowledge Graphs und SPARQL · Multimodale Analyse · Generative KI als Skalierungswerkzeug · Kritische Reflexion</span>
     <span class="ch-scope">60–100 S.</span>
   </li>
   <li>
     <span class="ch-num">II.2</span>
     <span class="ch-title"><strong>Visualisieren</strong><br>
-    6 Unterkapitel: Grundprinzipien · Interaktive Visualisierung · Karten und Geovisualisierung · Netzwerkvisualisierung · Narration mit Daten · Kritische Visualisierung</span>
+    Mögliche Themen: Grundprinzipien · Interaktive Visualisierung · Karten und Geovisualisierung · Netzwerkvisualisierung · Narration mit Daten · Kritische Visualisierung</span>
     <span class="ch-scope">30–50 S.</span>
   </li>
   <li>
     <span class="ch-num">II.3</span>
     <span class="ch-title"><strong>Publizieren</strong><br>
-    Open Access, digitale Monographien, reproduzierbares Publizieren (Jupyter Notebooks), Versionierung mit Git/GitHub, FAIR-Prinzipien, Public Humanities</span>
+    Mögliche Themen: Open Access, digitale Monographien, reproduzierbares Publizieren (Jupyter Notebooks), Versionierung mit Git/GitHub, FAIR-Prinzipien, Public Humanities</span>
     <span class="ch-scope">20–40 S.</span>
   </li>
   <li>
     <span class="ch-num">II.4</span>
     <span class="ch-title"><strong>Crowd Sourcen</strong><br>
-    3 Schwerpunkte: Citizen Science / partizipative Annotation / Transkription · Annotation und Tagging (manuelle vs. automatische Annotation, Inter-Annotator-Agreement) · Qualitätskontrolle und Community-Management (Transkribus-Communities, gamifizierte Ansätze, Fehlertoleranz)</span>
+    Mögliche Themen: Citizen Science / partizipative Annotation / Transkription · Annotation und Tagging (manuelle vs. automatische Annotation, Inter-Annotator-Agreement) · Qualitätskontrolle und Community-Management (Transkribus-Communities, gamifizierte Ansätze, Fehlertoleranz)</span>
     <span class="ch-scope">~20 S.</span>
   </li>
   <li>
     <span class="ch-num">II.5</span>
-    <span class="ch-title"><strong>Aufbewahren und Zurverfügunghalten</strong><br>
-    7 Unterkapitel: Korpusdesign · Digitalisierung/OCR/HTR · Datenbereinigung und Metadatenstandards · API-Zugriffe auf Kulturinfrastrukturen · Forschungsdatenmanagement (FAIR) · Digitale Bibliotheken und Archive · Langzeitarchivierung und Nachhaltigkeit</span>
+    <span class="ch-title"><strong>Sammeln, Bereitstellen und Aufbewahren</strong><br>
+    Mögliche Themen: Korpusdesign · Digitalisierung/OCR/HTR · Datenbereinigung und Metadatenstandards · API-Zugriffe auf Kulturinfrastrukturen · Forschungsdatenmanagement (FAIR) · Digitale Bibliotheken und Archive · Langzeitarchivierung und Nachhaltigkeit</span>
     <span class="ch-scope">30–40 S.</span>
   </li>
   <li>
     <span class="ch-num">II.6</span>
     <span class="ch-title"><strong>Lernen und Lehren</strong><br>
-    8 Unterkapitel: DH-Curricula und -Zertifikate · OER-Landschaft für DH · Methoden-Reader als Lehrformat · Tool Criticism als Pädagogik · Digital Storytelling in der Lehre · Promptotyping: genAI in der DH-Lehre · Invisible Labor · Digitale Lehrformate in der Praxis</span>
+    Mögliche Themen: DH-Curricula und -Zertifikate · OER-Landschaft für DH · Methoden-Reader als Lehrformat · Tool Criticism als Pädagogik · Digital Storytelling in der Lehre · Promptotyping: genAI in der DH-Lehre · Invisible Labor · Digitale Lehrformate in der Praxis</span>
     <span class="ch-scope">30–40 S.</span>
   </li>
   <li>
     <span class="ch-num">II.7</span>
     <span class="ch-title"><strong>Kritisieren</strong><br>
-    9 Unterkapitel: Daten vs. Capta · Bias in Daten und Modellen · Digitale Quellenkritik · Ethik der Digital Humanities · Critical DH · Postkoloniale/feministische/queere DH · Arbeitsbedingungen und Ökonomie · Ökologische Kritik · Generative KI: Ethik, Autorschaft, Trainingsdaten</span>
+    Mögliche Themen: Daten vs. Capta · Bias in Daten und Modellen · Digitale Quellenkritik · Ethik der Digital Humanities · CARE-Prinzipien und Data Sovereignty · Critical DH · Postkoloniale/feministische/queere DH · Arbeitsbedingungen und Ökonomie · Ökologische Kritik · Generative KI: Ethik, Autorschaft, Trainingsdaten</span>
     <span class="ch-scope">30–50 S.</span>
   </li>
 </ul>
@@ -115,10 +115,10 @@ Sieben Kapitel mit gemeinsamem Raster: (1) Positionalität, (2) Begriffsklärung
 
 Generative KI kann an vier Stellen mit unterschiedlicher Funktion eingebettet werden:
 
-- **Definitionskapitel (I.2)** — begriffliche Einordnung: Generative KI als eigene (und somit neue) Methode oder gar als Zäsur verstanden?
-- **Skalierung (II.1.13)** — praktisch: LLMs für Annotation, Klassifikation, Prompting, Few-Shot/Fine-Tuning
-- **Kritik und Disruption (II.7.9)** — reflexiv: Bias, Urheberrecht, ökologischer Fußabdruck, Autorschaftsfrage
-- **Lehre (II.6.6 „Promptotyping")** — didaktisch: genAI als Lehr- und Lernwerkzeug
+- **Rahmen (Teil I)** — begriffliche Einordnung: Generative KI als eigene (und somit neue) Methode oder gar als Zäsur verstanden?
+- **Skalieren (II.1)** — praktisch: LLMs für Annotation, Klassifikation, Prompting, Few-Shot/Fine-Tuning
+- **Kritisieren (II.7)** — reflexiv: Bias, Urheberrecht, ökologischer Fußabdruck, Autorschaftsfrage
+- **Lernen und Lehren (II.6, z. B. „Promptotyping")** — didaktisch: genAI als Lehr- und Lernwerkzeug
 
 Zusätzlich enthält jedes Disziplinkapitel (Teil III) eine Box „KI in der Disziplin X".
 

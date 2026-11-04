@@ -5,7 +5,7 @@ title: Arbeitsstand
 
 Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Seite bildet den aktuellen Stand ab und wird laufend erweitert.
 
-*Stand: Juli 2026*
+*Stand: November 2026*
 
 ---
 
@@ -23,7 +23,7 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Seite bildet den ak
     <tr>
       <td>Strukturvorschlag Handbuch</td>
       <td><span class="badge badge-active">Entwurf</span></td>
-      <td>Gesamtarchitektur Teil I–III, Unterkapitellisten, KI-Querschnitt, Notebook-Konzept</td>
+      <td>Gesamtarchitektur Teil I–III, mögliche Themen je Kapitel, KI-Querschnitt, Notebook-Konzept</td>
     </tr>
     <tr>
       <td>Übersicht bestehende Handbücher</td>
@@ -82,7 +82,7 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Seite bildet den ak
       <td><span class="badge badge-open">offen</span></td>
     </tr>
     <tr>
-      <td>II.5 Aufbewahren</td>
+      <td>II.5 Sammeln, Bereitstellen und Aufbewahren</td>
       <td><span class="badge badge-active">Entwurf</span></td>
       <td><span class="badge badge-planned">geplant</span></td>
       <td><span class="badge badge-open">offen</span></td>
@@ -109,7 +109,7 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Seite bildet den ak
 ### Struktur
 
 - Reihenfolge/Gruppierung der 17 Disziplinkapitel (Teil III): nach zeitlichem Gegenstand (Antike → Moderne) oder nach Quellentyp (Text – Bild – Objekt – Raum)?
-- Aufteilung von II.1 „Skalieren": Ein Kapitel (mit 14 Unterkapitel) oder alternative Form, um Ansätze zusammenzubringen?
+- Aufteilung von II.1 „Skalieren": Ein Kapitel (mit 14 möglichen Themen) oder alternative Form, um Ansätze zusammenzubringen?
 - Einheitliches Fragenraster für Positionalitätserklärungen (3–5 Fragen, inkl. Umgang mit generativen und anderen Formen der Künstlichen Intelligenz)
 
 ### Autor:innen und Disziplinen
@@ -127,7 +127,8 @@ Aktueller Stand der Konzeptionsarbeit und offene Punkte. Die Seite bildet den ak
 
 ## Nächste Schritte
 
-1. Abstimmungsrunde zu den offenen Punkten (Struktur, Disziplinreihenfolge)
-2. Anfrage potenzieller Beitragender für Disziplinkapitel
-3. Einheitliches Positionalitäts-Fragenraster ausarbeiten
-4. Notebook-Infrastruktur klären
+1. Workshop an der DHd 2027 in Marburg: gemeinsame Diskussion der Struktur
+2. Abstimmungsrunde zu den offenen Punkten (Struktur, Disziplinreihenfolge)
+3. Anfrage potenzieller Beitragender für Disziplinkapitel
+4. Einheitliches Positionalitäts-Fragenraster ausarbeiten
+5. Notebook-Infrastruktur klären
