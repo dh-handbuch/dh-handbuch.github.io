@@ -28,6 +28,14 @@ handbuch/
     └── images/            # Logos und Grafiken
 ```
 
+## Herausgeber:innen
+
+- **Evelyn Gius** (TU Darmstadt)
+- **Aline Deicke** (Universität Marburg, Akademie der Wissenschaften und der Literatur Mainz)
+- **Michael Schonhardt** (TU Darmstadt, Akademie der Wissenschaften und der Literatur Mainz)
+- **Sarah-Mai Dang** (Universität Zürich)
+- **Tobias Hodel** (Universität Bern)
+
 ## Konzeptuelle Arbeit
 
 Dieses Repo ist work-in-progress und repräsentiert weder die abschliessende Meinung der Herausgeber:innen noch des Verlags. Aktuell (2026 bis März 2027) wird aktiv nach Ideen und Strukturen gesucht.

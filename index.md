@@ -31,6 +31,14 @@ title: ""
 </div>
 </div>
 
+## Herausgeber:innen
+
+- **Evelyn Gius** (TU Darmstadt)
+- **Aline Deicke** (Universität Marburg, Akademie der Wissenschaften und der Literatur Mainz)
+- **Michael Schonhardt** (TU Darmstadt, Akademie der Wissenschaften und der Literatur Mainz)
+- **Sarah-Mai Dang** (Universität Zürich)
+- **Tobias Hodel** (Universität Bern)
+
 ## Konzept
 
 Das Handbuch ist in drei Teile gegliedert:
