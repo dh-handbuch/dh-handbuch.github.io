@@ -57,7 +57,7 @@ Sieben Kapitel zu Praktiken der Digital Humanities mit gemeinsamem Raster: (1) P
   <li>
     <span class="ch-num">II.4</span>
     <span class="ch-title"><strong>Crowd Sourcen</strong><br>
-    Mögliche Themen: Citizen Science / partizipative Annotation / Transkription · Annotation und Tagging (manuelle vs. automatische Annotation, Inter-Annotator-Agreement) · Qualitätskontrolle und Community-Management (Transkribus-Communities, gamifizierte Ansätze, Fehlertoleranz)</span>
+    Mögliche Themen: Citizen Science / partizipative Annotation / Transkription · Annotation und Tagging (manuelle vs. automatische Annotation, Inter-Annotator-Agreement) · Qualitätskontrolle und Community-Management (gamifizierte Ansätze, Fehlertoleranz)</span>
     <span class="ch-scope">~20 S.</span>
   </li>
   <li>
