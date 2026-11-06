@@ -29,6 +29,7 @@ jobs:
           # Versucht, Pages automatisch zu aktivieren, falls noch nicht geschehen
           enablement: true
           # Setzt url/baseurl in _config.yml passend zur Pages-URL
+          static_site_generator: jekyll
           generator_config_file: _config.yml
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
