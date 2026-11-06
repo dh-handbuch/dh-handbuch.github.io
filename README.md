@@ -66,7 +66,7 @@ Aktuell keine. Kooperationsvorschläge können gerne gemacht werden.
 
 ## Lizenz
 
-Vorschlag: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (siehe Seite „Mitwirken“)
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (siehe Seite „Mitwirken“)
 
 ## Kontakt
 

@@ -25,12 +25,16 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-        with:
-          # Versucht, Pages automatisch zu aktivieren, falls noch nicht geschehen
-          enablement: true
-          # Setzt url/baseurl in _config.yml passend zur Pages-URL
-          static_site_generator: jekyll
-          generator_config_file: _config.yml
+      # configure-pages schreibt baseurl nur in JS-Configs, nicht in YAML.
+      # Deshalb url/baseurl hier aus der tatsächlichen Pages-URL setzen:
+      # Root-Site (Repo dh-handbuch.github.io) -> baseurl "", Projekt-Site -> "/public".
+      - name: Set url/baseurl from Pages URL
+        env:
+          PAGES_ORIGIN: ${{ steps.pages.outputs.origin }}
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          sed -i "s#^url:.*#url: \"${PAGES_ORIGIN}\"#; s#^baseurl:.*#baseurl: \"${PAGES_BASE_PATH}\"#" _config.yml
+          grep -E '^(url|baseurl):' _config.yml
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

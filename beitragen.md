@@ -27,7 +27,7 @@ Für Disziplinkapitel (Teil III) gilt ein verkürztes Raster: Positionalität ·
 
 Alle Beiträge erscheinen unter einer CC-Lizenz. 
 
-Vorschlag: [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) — freie Nutzung und Weitergabe mit Namensnennung, nicht für kommerzielle Zwecke.
+[**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) — freie Nutzung, Weitergabe und Bearbeitung mit Namensnennung; Bearbeitungen müssen unter derselben Lizenz erscheinen.
 
 ### Sprache
 
