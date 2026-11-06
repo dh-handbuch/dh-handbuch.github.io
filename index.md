@@ -1,11 +1,10 @@
 ---
 layout: default
-title: ""
 ---
 
 <div class="news">
 <div class="news-label">Neu</div>
-<p><strong>Workshop an der DHd 2027 in Marburg:</strong> An der Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2027, Philipps-Universität Marburg) findet ein Workshop statt, an dem die Struktur des Handbuchs gemeinsam diskutiert wird. Interessierte sind herzlich eingeladen – <a href="{{ '/beitragen' | relative_url }}">Kontakt</a>.</p>
+<p><strong>Workshop an der DHd 2027 in Marburg:</strong> An der Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2027, Philipps-Universität Marburg) findet ein Workshop statt, an dem die Struktur des Handbuchs gemeinsam diskutiert wird. Interessierte sind herzlich eingeladen – <a href="{{ '/beitragen/' | relative_url }}">Kontakt</a>.</p>
 </div>
 
 <div class="hero">
@@ -58,7 +57,7 @@ Zu jedem Kapitel in Teil II gibt es mindestens ein Jupyter-Notebook in Python �
 ## Positionierung
 
 <div class="cta-links">
-  <a href="{{ '/struktur' | relative_url }}" class="cta">Buchstruktur ansehen</a>
-  <a href="{{ '/handbuecher' | relative_url }}" class="cta cta-secondary">Vergleich bestehender Handbücher</a>
-  <a href="{{ '/arbeitsstand' | relative_url }}" class="cta cta-secondary">Arbeitsstand</a>
+  <a href="{{ '/struktur/' | relative_url }}" class="cta">Buchstruktur ansehen</a>
+  <a href="{{ '/handbuecher/' | relative_url }}" class="cta cta-secondary">Vergleich bestehender Handbücher</a>
+  <a href="{{ '/arbeitsstand/' | relative_url }}" class="cta cta-secondary">Arbeitsstand</a>
 </div>

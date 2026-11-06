@@ -219,6 +219,9 @@ __marimo__/
 
 # Jekyll build output (GitHub Pages baut _site/ selbst)
 _site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
 
 # Claude Code
 .claude/

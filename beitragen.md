@@ -9,7 +9,7 @@ Das Handbuch wird als kollaboratives Werk erarbeitet. Beitragende aus dem deutsc
 
 ## Für Beitragende
 
-### Kapiteln
+### Kapitelraster
 
 Jedes Kapitel folgt einem gemeinsamen Raster:
 

@@ -38,11 +38,11 @@ title: Handbücher im Vergleich
   <span class="tag">Dekolonisierung</span>
   <span class="tag">Pedagogy</span>
 </div>
-<p class="book-note">Aktuelle Debatten: Kritik, Dekolonisierung, Pädagogik, Disziplinen, Zukunft der DH. Stark kritisch-reflexiv. Zentrale Referenz für Teil II.7 (Kritik und Disruption). 44 Kapitel.</p>
+<p class="book-note">Aktuelle Debatten: Kritik, Dekolonisierung, Pädagogik, Disziplinen, Zukunft der DH. Stark kritisch-reflexiv. Zentrale Referenz für Teil II.7 (Kritisieren). 44 Kapitel.</p>
 </div>
 
 <div class="book-card">
-<h3><a href="https://www.utb.de/doi/10.36198/9783838561165">Digital Humanities in den Geschichtswissenschaften</a></h3>
+<h3><a href="https://doi.org/10.36198/9783838561165">Digital Humanities in den Geschichtswissenschaften</a></h3>
 <div class="book-meta">
   <span>Antenhofer / Kühberger / Strohmeyer (Hg.)</span>
   <span>UTB/Böhlau, 2024</span>
@@ -105,7 +105,7 @@ title: Handbücher im Vergleich
   <span class="tag">Kritik</span>
   <span class="tag">Race / Gender</span>
 </div>
-<p class="book-note">Kritische und postkoloniale Genealogien der DH: Race, Gender, Indigenous Futures. Zentrale Quelle für Teil II.7 (Kritik und Disruption) und Vorbild für alternative Gliederungsformen (Essay/Interview).</p>
+<p class="book-note">Kritische und postkoloniale Genealogien der DH: Race, Gender, Indigenous Futures. Zentrale Quelle für Teil II.7 (Kritisieren) und Vorbild für alternative Gliederungsformen (Essay/Interview).</p>
 </div>
 
 <div class="book-card">
@@ -125,7 +125,7 @@ title: Handbücher im Vergleich
 </div>
 
 <div class="book-card">
-<h3><a href="https://www.routledge.com/The-Digital-Humanities-Coursebook-An-Introduction-to-Digital-Methods-for-Research-and-Scholarship/Drucker/p/book/9780367565756">The Digital Humanities Coursebook</a></h3>
+<h3><a href="https://doi.org/10.4324/9781003106531">The Digital Humanities Coursebook</a></h3>
 <div class="book-meta">
   <span>Drucker</span>
   <span>Routledge, 2021</span>

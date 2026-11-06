@@ -14,18 +14,38 @@ Das Handbuch Digital Humanities im deutschsprachigen Raum ist ein kollaboratives
 ## Struktur dieses Repositories
 
 ```
-handbuch/
+public/
 ├── index.md              # Startseite (Projektübersicht)
 ├── struktur.md           # Buchstruktur (Teil I–III)
 ├── handbuecher.md        # Übersicht gesichteter DH-Handbücher
 ├── arbeitsstand.md       # Aktueller Arbeitsstand & offene Punkte
 ├── beitragen.md          # Hinweise für Beitragende / Kontakt
 ├── _config.yml           # Jekyll-Konfiguration
+├── .github/workflows/
+│   └── pages.yml         # Build & Deploy nach GitHub Pages
 ├── _layouts/
 │   └── default.html      # Seitenlayout
 └── assets/
     ├── css/main.css       # Stylesheet
     └── images/            # Logos und Grafiken
+```
+
+## Deployment (GitHub Pages)
+
+Die Site wird bei jedem Push auf `main` durch den Workflow `.github/workflows/pages.yml`
+mit Jekyll gebaut und nach GitHub Pages deployt. Voraussetzung in den Repo-Einstellungen:
+**Settings → Pages → Build and deployment → Source: „GitHub Actions“**.
+
+Damit die Site unter der Wurzel **https://dh-handbuch.github.io/** erreichbar ist, muss das
+Repository `dh-handbuch.github.io` heissen (GitHub-Konvention für Organisations-Sites).
+Unter dem Namen `public` wird sie stattdessen unter https://dh-handbuch.github.io/public/
+ausgeliefert; `url`/`baseurl` werden beim Build automatisch gesetzt, beide Varianten funktionieren.
+
+Lokal bauen:
+
+```bash
+gem install jekyll
+jekyll serve
 ```
 
 ## Herausgeber:innen
@@ -46,7 +66,7 @@ Aktuell keine. Kooperationsvorschläge können gerne gemacht werden.
 
 ## Lizenz
 
-Geplant: CC BY-SA 4.0
+Vorschlag: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (siehe Seite „Mitwirken“)
 
 ## Kontakt
 

@@ -1,23 +1,32 @@
 title: "Digital Humanities Handbuch"
-description: "Handbuch Digital Humanities im deutschsprachigen Raum"
-baseurl: "/handbuch"
-url: "https://thodel.github.io"
+description: "Handbuch Digital Humanities im deutschsprachigen Raum – Projektseite"
+# Die Site wird unter https://dh-handbuch.github.io ausgeliefert.
+# Beim Deploy über GitHub Actions (actions/configure-pages) werden url und
+# baseurl automatisch an die tatsächliche Pages-URL angepasst, d. h. die Site
+# funktioniert sowohl als Root-Site (Repo "dh-handbuch.github.io") als auch
+# als Projekt-Site (https://dh-handbuch.github.io/public/).
+url: "https://dh-handbuch.github.io"
+baseurl: ""
 
 lang: de
+
+# Saubere URLs ohne .html (/struktur/ statt /struktur.html)
+permalink: pretty
 
 nav:
   - title: Projekt
     url: /
   - title: Buchstruktur
-    url: /struktur
+    url: /struktur/
   - title: Handbücher im Vergleich
-    url: /handbuecher
+    url: /handbuecher/
   - title: Arbeitsstand
-    url: /arbeitsstand
+    url: /arbeitsstand/
   - title: Mitwirken
-    url: /beitragen
+    url: /beitragen/
 
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
